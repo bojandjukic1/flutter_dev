@@ -5,4 +5,4 @@ A collection of simple flutter apps developed to build my knowledge of cross pla
 ## Screenshots: 
 
 ### Trip cost calculator:
-![](screenshots/trip_cost.png)
+<img src="https://github.com/bojandjukic1/flutter_dev/blob/master/screenshots/trip_cost.png" alt="trip_cost_screenshot" height="384px" width="216px" />
